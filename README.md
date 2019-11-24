@@ -33,7 +33,7 @@ API Endpoint :
 
 GET
 1. http://localhost:8080/statistics
-2. http://localhost:8080/statistics/IBM.N2
+2. http://localhost:8080/statistics/IBM.N
 
 POST
 
